@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script para crear usuario con permisos sudo sin contraseña en RHEL 8/9
-# Uso: ./create_sudo_user.sh <nombre_usuario>
+# Uso: ./create_user_linux_sudo.sh <nombre_usuario>
 
 set -e  # Salir si hay algún error
 
