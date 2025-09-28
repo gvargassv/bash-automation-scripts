@@ -109,10 +109,3 @@ El script retorna códigos de salida que pueden integrarse en otras herramientas
 - `3` → Conexión muy inestable.  
 
 ---
-
-## 👨‍💻 Autor
-
-Script desarrollado por **Administrador de Sistema**  
-Versión: **3.0**
-
----
