@@ -97,31 +97,6 @@ user_creation_YYYYMMDD_HHMMSS.log
 
 ---
 
-## 🤝 Contribuir
-
-1. Haz un **fork** del proyecto  
-2. Crea una rama para tu feature:  
-
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-
-3. Commit tus cambios:  
-
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-
-4. Push a la rama:  
-
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-
-5. Abre un **Pull Request**  
-
----
-
 ## 📄 Licencia
 
 Este proyecto está bajo la **Licencia MIT**.  
