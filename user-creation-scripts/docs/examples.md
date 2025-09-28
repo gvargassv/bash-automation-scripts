@@ -20,7 +20,6 @@ Formato:
 - Una IP o hostname por línea  
 - Líneas que comienzan con `#` son comentarios  
 - Líneas vacías son ignoradas  
-- Se eliminan automáticamente espacios y caracteres extraños  
 
 Ejemplo de contenido:
 
@@ -61,5 +60,3 @@ chmod 644 servers.txt
 # Verificar permisos
 ls -la *.txt
 ```
-
----
