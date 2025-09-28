@@ -60,7 +60,7 @@ sudo yum install expect
 ### Script AIX - Creación masiva
 
 ```bash
-./create_users_aix_sudo.sh -u newuser -p 'MyP@ss' -s root -w 'RootPass' -f servers.txt
+./create_users_aix.sh -u newuser -p 'MyP@ss' -s root -W ssh_passwords.txt -f servers.txt
 ```
 
 ### Script Linux - Creación individual
