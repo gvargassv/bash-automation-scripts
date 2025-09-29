@@ -3,7 +3,6 @@
 # Script para ejecutar Segment Advisor y Shrink de tablas Oracle
 # Ejecutar desde el servidor de base de datos con usuario oracle
 # Uso: ./oracle_shrink.sh <esquema> <tabla> [ORACLE_SID]
-# Ejemplo: ./oracle_shrink.sh HUBBUREAU_PRD HUB_OUTPUT ORCL
 
 # Función para mostrar ayuda
 show_help() {
