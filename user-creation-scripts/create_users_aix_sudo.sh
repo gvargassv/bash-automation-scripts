@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Script para creación masiva de usuarios en servidores AIX
-# Versión: 2.1 - Corregido para caracteres especiales
+# Versión: 1.0
 #
 
 # Variables de configuración
