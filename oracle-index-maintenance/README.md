@@ -44,9 +44,3 @@ ejecución.
     adecuadas).
 
 ------------------------------------------------------------------------
-
-## 🚀 Próximos scripts
-
--   Automatización de rebuild masivo de todos los índices fragmentados.
--   Revisión previa de fragmentación antes de decidir reconstrucción.
-
